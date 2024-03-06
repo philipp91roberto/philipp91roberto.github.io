@@ -29,11 +29,13 @@ url: https://philipp91roberto.github.io # the base hostname & protocol for your 
 domain: philipp91roberto.github.io
 twitter_username: PhilippMiotti
 github_username:  philipp91roberto
+linkedin_username: philipp-miotti
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
