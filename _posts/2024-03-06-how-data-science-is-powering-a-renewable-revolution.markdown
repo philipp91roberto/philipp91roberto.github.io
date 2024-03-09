@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "How Data Science is Powering a Renewable Revolution"
-date:   2024-03-06 21:06:00 +0100
-categories: solar energy
+category: data science
+tags: solar-energy, machine-learning, data-science
 ---
+![title image](/assets/2024-03-06-how-data-science-is-powering-a-renewable-revolution/image-1.jpeg)
+
 The solar energy industry stands at the forefront of the global shift towards sustainable energy. As the world grapples with climate change and dwindling fossil fuel resources, solar energy emerges as a beacon of hope. But like any industry, it faces challenges – challenges that data science is uniquely positioned to address. This post will explore the transformative potential of data science in the solar sector and how it's paving the way for a brighter, more sustainable future.
 
 Challenges of Solar Power Plants and How Data Science Can Help
