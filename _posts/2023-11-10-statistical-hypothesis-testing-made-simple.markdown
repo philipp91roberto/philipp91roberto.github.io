@@ -88,7 +88,7 @@ The core principle behind the inference algorithm is to compare the two distribu
 
 In the figure below we see an example of implementing the above algorithm. Each point represents the three KS statistics computed under each null hypothesis. The axes represent the units under which the null hypothesis was formulated. The triangular plains divide the unit square into those four classes mentioned before. Correctly classified points are shown in green, whereas misclassified points are shown in red.
 
-![3d image](/assets/2024-03-10-statistical-hypothesis-testing-made-simple/image_3d.png)
+![3d image](/assets/2023-11-10-statistical-hypothesis-testing-made-simple/image_3d.png)
 
 ### Conclusion
 

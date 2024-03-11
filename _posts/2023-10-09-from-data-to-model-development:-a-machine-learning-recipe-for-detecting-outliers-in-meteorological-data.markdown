@@ -37,7 +37,7 @@ Hopefully, you now have a good sense of what it takes to successfully deliver �
 
 For the sake of illustrating the above steps, I going to present you a project I have been recently working on and have successfully delivered. In this project, the goal was to detect collective outliers of air temperature measurements, i.e., time series. You might wonder now what I mean by ‘collective'. Well, simply put it’s this:
 
-![time series image](/assets/2024-03-09-from-data-to-model-development:-a-machine-learning-recipe-for-detecting-outliers-in-meteorological-data/time_series.png)
+![time series image](/assets/2023-10-09-from-data-to-model-development:-a-machine-learning-recipe-for-detecting-outliers-in-meteorological-data/time_series.png)
 *Slice of a time series showing ca. 6 weeks of air temperature measurements from a meteorological ground station. Blue and red points correspond to valid and invalid measurement records, respectively. The temperature is measured in Kelvin.*
 
 It’s not that important now to know the whole zoo of outliers (I might write a blog on various types of outliers in the future). All you need to be aware of is that these outliers are characterized by a continuous stream of abnormal values that only look abnormal from a global perspective, but locally look quite normal (if we ignore the values of the time series points). Given the nature of collective outliers, traditional supervised learning approaches, which rely on labeled data, were not suitable. The diverse shapes and durations of these outliers meant that there was no substantial labeled data available. Thus, the project leaned towards unsupervised models.
