@@ -11,12 +11,12 @@ The solar energy industry stands at the forefront of the global shift towards su
 Challenges of Solar Power Plants and How Data Science Can Help
 As the demand for solar energy grows, so do the challenges associated with its production and distribution. There are many challenges that solar energy systems face in the transition to carbon-neutral energy production:
 
-* power plants design
-* intelligent plant maintenance
-* power generation forecasting
-* optimizing transmission and distribution networks
-* effective power plant operation and control
-* prediction of energy market prices
+- power plants design
+- intelligent plant maintenance
+- power generation forecasting
+- optimizing transmission and distribution networks
+- effective power plant operation and control
+- prediction of energy market prices
 
 In this blog, I’m going to focus on three of these challenges: solar power plant design, power generation forecasting, and intelligent plant maintenance. My goal is to give you a brief description of the main characteristics of each challenge and what environmental, meteorological, and other factors influence their scope. This should give you an idea of the importance of dealing with these challenges with the best tools data scientists have in their toolbox – fast-polished machines and deeply entangled perceptrons, aka machine learning and deep learning, respectively :smile:
 
